@@ -6,7 +6,7 @@ Full-stack membership registration form built with Next.js and Go, backed by Pos
 
 ### Run with Docker (recommended)
 ```bash
-git clone https://github.com/youruser/spond-signup.git
+git clone https://github.com/angelosv/spond-signup.git
 cd spond-signup
 docker compose up --build
 ```
